@@ -43,3 +43,5 @@ Write your code in medical_data_visualizer.py. For development, you can use main
 Testing
 
 The unit tests for this project are in test_module.py. We imported the tests from test_module.py to main.py for your convenience.
+
+Because of updated verion of Seaborn "Annotations" are not working Still tring to fix it
